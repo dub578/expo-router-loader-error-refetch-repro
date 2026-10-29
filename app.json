@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "loader-repro",
+    "slug": "loader-repro",
+    "scheme": "loaderrepro",
+    "web": { "bundler": "metro", "output": "server" },
+    "plugins": ["expo-router"]
+  }
+}
